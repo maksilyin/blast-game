@@ -3,7 +3,6 @@ import Image = Phaser.GameObjects.Image;
 import Text = Phaser.GameObjects.Text;
 import Store from "../classes/Store";
 import IUIBuster from "../interfaces/IUIBuster";
-import Sizes from "../classes/Sizes";
 
 export default class BusterPanel extends Container {
     private countText: Text;

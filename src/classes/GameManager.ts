@@ -1,6 +1,4 @@
 import Store from "./Store";
-import Register from "./Register";
-import IGameObjectCollection from "../interfaces/IGameObjectCollection";
 import GameObjectsRegister from "./GameObjectsRegister";
 
 import IGameData from "../interfaces/IGameData";

@@ -5,8 +5,6 @@ import GameLogic from "../classes/GameLogic";
 import BombBuster from "../classes/UIBusters/BombBuster";
 import TeleportBuster from "../classes/UIBusters/TeleportBuster";
 import ProgressBar from "../gameObjects/ProgressBar";
-import Sizes from "../classes/Sizes";
-import TileGrid from "../gameObjects/TileGrid";
 
 class UIScene extends Phaser.Scene {
     progress: ProgressBar;

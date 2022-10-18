@@ -1,6 +1,5 @@
 import Position from "./Position";
 import Sizes from "./Sizes";
-import GameManager from "./GameManager";
 import Box from "../gameObjects/Box";
 import TileGrid from "../gameObjects/TileGrid";
 

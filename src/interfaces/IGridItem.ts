@@ -1,4 +1,3 @@
-import GameManager from "../classes/GameManager";
 import IGridConfig from "./IGridConfig";
 
 export default interface IGridItem extends Phaser.Physics.Arcade.Sprite {

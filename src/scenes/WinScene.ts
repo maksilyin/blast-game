@@ -1,5 +1,4 @@
 import Register from "../classes/Register";
-import Assets from "../classes/Assests";
 import GameLogic from "../classes/GameLogic";
 import Store from "../classes/Store";
 

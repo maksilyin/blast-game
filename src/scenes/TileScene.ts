@@ -30,7 +30,6 @@ class TileScene extends Phaser.Scene {
         this.load.image('white-block', Assets.sprite('white.png'));
         this.load.image('popupPanel', Assets.sprite('rectangle.png'));
         this.load.image('btnNext', Assets.sprite('rounded-rectangle-2.png'));
-       // this.load.spritesheet('flares', require('@/assets/dude.png'), { frameWidth: 32, frameHeight: 48 })
         this.load.atlas('flares', Assets.sprite('flares.png'), Assets.sprite('flares.json'));
     }
     create = () => {
