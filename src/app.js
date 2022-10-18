@@ -20,7 +20,7 @@ const config = {
         default: 'arcade',
         arcade: {
             gravity: { y: 900 },
-            debug: true
+            debug: false
         }
     },
     scene: [TileScene_1.default, UIScene_1.default, WinScene_1.default, LoseScene_1.default],
